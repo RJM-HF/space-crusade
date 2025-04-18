@@ -3,4 +3,4 @@ Space Crusade
 
 Space Crusade is a HTML5 game developped with PhaserJS Framework.
 
-You can play it here : http://games.loopeex.com/space-crusade
+You can play it here : https://www.homefortress.space/space-crusade
